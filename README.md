@@ -27,7 +27,7 @@ See the [datasheet](doc/datasheet.pdf) for a full pin listing.
 
 
 ### Board Assembly :mag:
-The board is pre-assembled and preloaded with a pre-installed MicroPython UF2 image & blink bitStream.
+The board is pre-assembled and preloaded with a USB serial bootloader for programming via the PicoFabric IDE. 
 ![PicoFabric board overview](doc/images/board.png)
 
 ### Getting started - MicroPython :mag:
